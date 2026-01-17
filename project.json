@@ -1,0 +1,6 @@
+{
+  ""name"": ""specproj-65xewew7"",
+  ""goal"": ""sync worker for data exports"",
+  ""language"": ""rust"",
+  ""template"": ""rust-cli""
+}
